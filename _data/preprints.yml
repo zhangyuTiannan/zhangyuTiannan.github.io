@@ -1,15 +1,1 @@
-main:
-
-  - title: "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models"
-    authors: Guiyu Zhao, Longteng Guo, Yanghong Mei, Zilin Zhu, <strong>Yu Zhang</strong>, Bin Cao, MingMing Yu, Xingjian He, Jie Jiang, Jing Liu
-    conference_short: Preprint
-    conference: Under review, 2026.
-    year: 2026
-    image: /assets/img/pubs/atlasvla.png
-
-  - title: "CLAW: Closed-Loop Autoregressive Wireframe Generation for Structured Building Mesh Retopology"
-    authors: Author list omitted (under double-blind review)
-    conference_short: Preprint
-    conference: Under review, 2026.
-    year: 2026
-    image: /assets/img/pubs/claw.png
+main: []

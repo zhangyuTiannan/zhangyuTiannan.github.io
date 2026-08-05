@@ -1,5 +1,6 @@
 <h2 id="publications" class="pub-section-title" >Publications</h2>
 
+{% if site.data.preprints.main.size > 0 %}
 <h3 class="pub-subsection" style="margin: 30px 0px -30px;">Preprints</h3>
 
 
@@ -52,9 +53,8 @@
 </ol>
 </div>
 
-
-
 <h3 class="pub-subsection" style="margin: 35px 0px -30px;">Publications</h3>
+{% endif %}
 
 
 <div class="publications">
