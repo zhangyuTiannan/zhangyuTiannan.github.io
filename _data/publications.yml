@@ -3,14 +3,16 @@ main:
   - title: "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models"
     authors: Guiyu Zhao, Longteng Guo, Yanghong Mei, Zilin Zhu, <strong>Yu Zhang</strong>, Bin Cao, MingMing Yu, Xingjian He, Jie Jiang, Jing Liu
     conference_short: AAAI
-    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2027.
+    conference: AAAI Conference on Artificial Intelligence (AAAI), 2027.
     pdf: /assets/pdf/AtlasVLA_AAAI2027.pdf
     image: /assets/img/pubs/atlasvla.png
 
   - title: "RoofIt: 2D Parametric Sketch Extraction from Rough Models for High-quality Roof Reconstruction"
     authors: Xiaogang Wang, Yuncong Liu, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: MM
-    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2026.
+    conference: ACM International Conference on Multimedia (ACM MM), 2026.
+    pdf: /assets/pdf/RoofIt_ACMMM2026.pdf
+    image: /assets/img/pubs/roofit.png
 
   - title: "TARA: Task-Aware Reasoning with Temporal Evidence Amplification for BlackSwan MCQ"
     authors: Xingyu Zhu, <strong>Yu Zhang</strong>, Wenwu He, Yuyang Sun, Haoxuan Ma, Yongliang Wu, Xiaogang Wang, Yuxia Chen, Zhenxiang Jiang, Yangguang Ji, Wenbo Zhu, Xu Yang
@@ -27,29 +29,35 @@ main:
   - title: "RoofIt: 2D Parametric Sketch Extraction from Rough Models for High-quality Roof Reconstruction"
     authors: Yuncong Liu, Xiaogang Wang, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Kai Xu <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: CVM
-    conference: Computational Visual Media <strong>(CVM)</strong>, 2025.
+    conference: Computational Visual Media (CVM), 2025.
 
   - title: Learning 3D Volume Cloud from Single Image
     authors: Yuhang Cheng, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Xiaogang Wang <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: ICMR
-    conference: ACM International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, 2025.
+    conference: ACM International Conference on Multimedia Retrieval (ICMR), 2025.
 
   - title: "Sketch2CAD: Generative Adversarial Network for Automated Conversion of Hand-Drawn Sketches to Parametric CAD Models"
     authors: Xiaogang Wang, Yuncong Liu, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: ICRA
-    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2025.
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2025.
+    pdf: /assets/pdf/Sketch2CAD_ICRA2025.pdf
+    image: /assets/img/pubs/sketch2cad.png
 
   - title: Knowledge-Guided Generative Re-Stylization of CIM Models with Feature Continuance
-    authors: <strong>Yu Zhang</strong>, Zhouying Song, Yunchong Zhang, Yufeng Du, Qin Ping, Yunshan Lv, Wenbo Chen, Bin Zhang, Xieqin Huang <br>(Co-first author)
+    authors: <strong>Yu Zhang*</strong>, Yufeng Du*, Wenbo Chen, Zhouying Song, Qin Ping, Bin Zhang, Yunchong Zhang, Yunshan Lv, Xieqin Huang <br>( * Equal contribution)
     conference_short: CVIT
     conference: CVIT, 2025.
+    pdf: /assets/pdf/CIM_ReStylization_CVIT2025.pdf
+    image: /assets/img/pubs/cvit.png
 
   - title: Generating Multi-Illumination Leaf Images through Single-Image Material Estimation for Robust Disease Recognition
     authors: Jiahui Chen, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Xiaogang Wang <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: CGI
-    conference: Computer Graphics International <strong>(CGI)</strong>, 2025.
+    conference: Computer Graphics International (CGI), 2025.
+    pdf: /assets/pdf/LeafRelighting_CGI2025.pdf
+    image: /assets/img/pubs/cgi.png
 
   - title: A Growth Animation System based on Motion Sensing Interaction
     authors: Meng Li, <strong>Yu Zhang</strong>, Xinyuan Huang
     conference_short: JDCTA
-    conference: International Journal of Digital Content Technology and its Applications <strong>(JDCTA)</strong>, 2013.
+    conference: International Journal of Digital Content Technology and its Applications (JDCTA), 2013.

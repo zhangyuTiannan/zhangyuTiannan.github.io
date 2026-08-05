@@ -3,6 +3,6 @@ main:
   - title: "CLAW: Closed-Loop Autoregressive Wireframe Generation for Structured Building Mesh Retopology"
     authors: Author list omitted (under double-blind review)
     conference_short: AAAI
-    conference: Under review at the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2027.
+    conference: Under review at the AAAI Conference on Artificial Intelligence (AAAI), 2027.
     year: 2026
     image: /assets/img/pubs/claw.png
