@@ -1,4 +1,4 @@
-<h2 id="publications" class="pub-section-title" >Publications <span class="pub-ext-links"><a href="https://scholar.google.com/citations?user=Qi2PSmEAAAAJ" target="_blank">Google Scholar</a><a href="https://dblp.org/pid/12/10033-1.html" target="_blank">DBLP</a></span></h2>
+<h2 id="publications" class="pub-section-title" >Publications</h2>
 
 <h3 class="pub-subsection" style="margin: 30px 0px -30px;">Preprints</h3>
 
@@ -11,11 +11,11 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
+    {% if link.image %}<img src="{{ link.image }}" class="teaser img-fluid z-depth-1">{% endif %}
             <abbr class="badge" data-venue="{{ link.conference_short }}">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title">{% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
@@ -65,11 +65,11 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
+    {% if link.image %}<img src="{{ link.image }}" class="teaser img-fluid z-depth-1">{% endif %}
             <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title">{% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>

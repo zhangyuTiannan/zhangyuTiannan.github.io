@@ -2,19 +2,14 @@
 layout: homepage
 ---
 
+I am the Dean of the AI Research Institute at [Freedo Technology](https://www.freedo3d.com/), and a Master's supervisor in the College of Electronic and Information Engineering at [Southwest University](https://www.swu.edu.cn/). Before joining Freedo, I spent more than a decade as a researcher at the Institute of Computing Technology, Chinese Academy of Sciences. Over the past five years (2021&ndash;2026), I have published 10+ papers in artificial intelligence, including CCF-A conferences such as ACM MM, CVPR, and ECCV, and hold 50+ granted invention patents.
 
-I am an Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) and the [Coordinated Science Laboratory](https://csl.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/). I am also affiliated with the [Siebel School of Computing and Data Science](https://cs.illinois.edu/) (formerly the Department of Computer Science) and the [Department of Electrical & Computer Engineering](https://ece.illinois.edu/).
+I lead the development of **ZhengRong (峥嵘)**, the industry's first industrial-grade spatial intelligence foundation model. I have also led or participated in multiple national research programs, including the National Key R&D Program of China and the National Natural Science Foundation of China (NSFC). Several of my [open-source projects](https://github.com/zhangyuTiannan) have received 1K+ stars on GitHub.
 
-Previously, I received my Ph.D. in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my B.S. in Electronic Information Engineering at [Tianjin University](https://en.tju.edu.cn/). I also spent time at [Johns Hopkins](https://ccvl.jhu.edu/), [Oxford VGG](https://www.robots.ox.ac.uk/~vgg/), and [National University of Singapore](https://www.comp.nus.edu.sg/). 
+My research focuses on **world models**, **spatial intelligence**, and **embodied AI** &mdash; building continual and data-efficient intelligent systems that allow AI to perceive and understand the physical world as freely as humans do. My research interests include **3D generation**, **spatial understanding**, **physical AI**, and **intelligent decision-making**.
 
-My research lies at the intersection of **computer vision** and **machine learning**, with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical image analysis**.
+{% include_relative _includes/awards.md %}
 
-
-<div style="border-left: 4px solid #FF5F05; padding: 10px 16px; background-color: #fafafa; color: #333; border-radius: 0 4px 4px 0; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
-<strong style="color:#c0392b;">Prospective students: If you are interested in working with me, please see details <a href="https://vision.ischool.illinois.edu/openings/">here</a>.</strong>
-</div>
-
-
-{% include_relative _includes/news.md %}
+{% include_relative _includes/talks.md %}
 
 {% include_relative _includes/contact.md %}

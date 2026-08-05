@@ -1,10 +1,10 @@
-# yaoyaoliu.web.illinois.edu
+# zhangyutiannan.github.io
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/homepage?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/homepage/blob/main/LICENSE)
+Personal academic homepage of Yu Zhang (张宇), Dean of the Freedo AI Research Institute.
 
-This is the latest version of [my personal website](https://yaoyaoliu.web.illinois.edu/)'s source code. Feel free to use and share.
-<br />
-For more details, please refer to this repository: <https://github.com/yaoyao-liu/minimal-light>.
+Live site: <https://zhangyutiannan.github.io/>
+
+Built with [Jekyll](https://jekyllrb.com/), based on the [minimal-light](https://github.com/yaoyao-liu/minimal-light) theme by Yaoyao Liu.
 
 ### Using Locally with Jekyll
 
@@ -16,29 +16,23 @@ Install and run:
 bundle install
 bundle exec jekyll server
 ```
-View the live page using `localhost`:
-<http://localhost:4000>. You can get the html files in the `_site` folder.
 
-### Using the HTML version
+View the live page at <http://localhost:4000>. The generated HTML files are in the `_site` folder.
 
-The compiled HTML files are available in the [`html_source_file`](https://github.com/yaoyao-liu/homepage/tree/main/html_source_file) folder. If you don't like Jekyll, you may directly edit and use the HTML version.
+### Editing Content
 
-### Google Scholar Crawler
-
-The instructions for the Google Scholar crawler can be found in [this repository](https://github.com/RayeRen/acad-homepage.github.io).
-<br>
-Before using that, you need to change the Google Scholar ID in the following file:
-https://github.com/yaoyao-liu/homepage/blob/bf1cdb984e6189b855797a88d8a36d194c1e4901/google_scholar_crawler/main.py#L7
-
+* Homepage intro: `index.md`
+* Honors & awards / invited talks / contact: `_includes/awards.md`, `_includes/talks.md`, `_includes/contact.md`
+* Publications: `_data/publications.yml` and `_data/preprints.yml` (teaser images in `assets/img/pubs/`)
+* Services: `_includes/services.md`
+* Site-wide settings (name, avatar, links): `_config.yml`
 
 ### Acknowledgements
 
 This project uses the source code from the following repositories:
 
+* [minimal-light](https://github.com/yaoyao-liu/minimal-light)
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
-
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)
-
 * [al-folio](https://github.com/alshedivat/al-folio)
-
 * [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)

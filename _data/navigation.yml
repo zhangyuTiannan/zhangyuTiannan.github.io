@@ -1,17 +1,11 @@
 main:
 
-  - title: "Teaching"
-    url: teaching/
-    right: true 
-
   - title: "Services"
     url: services/
-
-  - title: "Group"
-    url: research-group/
+    right: true
 
   - title: "Publications"
     url: publications/
 
   - title: "Home"
-    url: 
+    url:
