@@ -10,7 +10,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;{% unless link.image %}min-width: 300px;{% endunless %}">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %}<img src="{{ link.image }}" class="teaser img-fluid z-depth-1">{% endif %}
             <abbr class="badge" data-venue="{{ link.conference_short }}">{{ link.conference_short }}</abbr>
   </div>
@@ -64,7 +64,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;{% unless link.image %}min-width: 300px;{% endunless %}">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %}<img src="{{ link.image }}" class="teaser img-fluid z-depth-1">{% endif %}
             <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>

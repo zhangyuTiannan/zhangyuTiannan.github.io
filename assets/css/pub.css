@@ -55,7 +55,7 @@ h3.pub-subsection { font-size: 0.95rem; font-weight: 700; color: #666; text-tran
 
 .publications ol.bibliography li:hover { background-color: #f5f7fa; box-shadow: 0 2px 10px rgba(19, 41, 75, 0.09); }
 
-.publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.5rem; }
+.publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.5rem; flex: 0 0 300px; max-width: 300px; }
 
 .publications ol.bibliography li .abbr abbr { display: inline-block; background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; font-size: 0.78rem; letter-spacing: 0.04em; }
 
