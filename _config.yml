@@ -20,7 +20,7 @@ link_type: icon #text/icon
 github_link: https://github.com/zhangyuTiannan
 
 # Images
-avatar: ./assets/img/avatar.png
+avatar: /assets/img/avatar.png
 
 # Footnotes
 footnote: Feel free to use my website's source code.
