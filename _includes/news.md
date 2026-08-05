@@ -1,7 +1,6 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[2026]</strong> AtlasVLA, a vision-language-action framework with persistent world-ego state modeling, is accepted by AAAI 2027.</li>
 <li><strong>[2026]</strong> RoofIt, a high-quality roof reconstruction method, is accepted by ACM MM 2026.</li>
 <li><strong>[2025]</strong> Sketch2CAD, converting hand-drawn sketches to parametric CAD models, is accepted by ICRA 2025.</li>
 <li><strong>[2025]</strong> Our paper on learning 3D volume clouds from a single image is accepted by ICMR 2025.</li>

@@ -1,12 +1,5 @@
 main:
 
-  - title: "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models"
-    authors: Guiyu Zhao, Longteng Guo, Yanghong Mei, Zilin Zhu, <strong>Yu Zhang</strong>, Bin Cao, MingMing Yu, Xingjian He, Jie Jiang, Jing Liu
-    conference_short: AAAI
-    conference: AAAI Conference on Artificial Intelligence (AAAI), 2027.
-    pdf: /assets/pdf/AtlasVLA_AAAI2027.pdf
-    image: /assets/img/pubs/atlasvla.png
-
   - title: "RoofIt: 2D Parametric Sketch Extraction from Rough Models for High-quality Roof Reconstruction"
     authors: Xiaogang Wang, Yuncong Liu, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: MM
