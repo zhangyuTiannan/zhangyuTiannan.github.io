@@ -84,7 +84,7 @@ a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
-.wrapper { width: 960px; margin: 0 auto; }
+.wrapper { width: 1180px; max-width: 94vw; margin: 0 auto; }
 
 blockquote { border-left: 3px solid rgba(19,41,75,0.25); margin: 0 0 20px; padding: 6px 0 6px 18px; font-style: italic; color: #555; }
 
@@ -126,7 +126,7 @@ header ul a strong { font-size: 14px; display: block; color: #222; }
 
 .sidebar-divider { border: none; border-top: 1px solid rgba(19,41,75,0.1); margin: 14px auto; width: 60%; }
 
-section { width: 662px; float: right; padding-top: 90px; padding-bottom: 56px; }
+section { width: 880px; max-width: calc(94vw - 280px); float: right; padding-top: 90px; padding-bottom: 56px; }
 
 section ul li { margin-bottom: 7px; line-height: 1.62; }
 
