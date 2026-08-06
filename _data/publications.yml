@@ -11,12 +11,16 @@ main:
     authors: Xingyu Zhu, <strong>Yu Zhang</strong>, Wenwu He, Yuyang Sun, Haoxuan Ma, Yongliang Wu, Xiaogang Wang, Yuxia Chen, Zhenxiang Jiang, Yangguang Ji, Wenbo Zhu, Xu Yang
     conference_short: CVPR
     conference: CVPR 2026 BlackSwan Challenge, 2026.
+    pdf: /assets/pdf/TARA_CVPR2026_BlackSwan.pdf
+    image: /assets/img/pubs/tara.jpg
     notes: Challenge Champion
 
   - title: Frontier VLMs are Strong Zero-Shot Soccer Video Reasoners with Proper Elicitation
     authors: Xingyu Zhu, <strong>Yu Zhang</strong>, Wenwu He, Yuyang Sun, Haoxuan Ma, Yongliang Wu, Xiaogang Wang, Xinyu Ye, Zhenxiang Jiang, Yangguang Ji, Wenbo Zhu, Xu Yang
     conference_short: CVPR
     conference: CVPR 2026 SoccerNet Challenge, 2026.
+    pdf: /assets/pdf/SoccerNet_CVPR2026.pdf
+    image: /assets/img/pubs/soccernet.png
     notes: Challenge Champion
 
   - title: Learning 3D Volume Cloud from Single Image
