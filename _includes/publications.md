@@ -11,7 +11,12 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  {% if link.image %}
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
+  </div>
+  {% endif %}
+  <div class="{% if link.image %}col-sm-9{% else %}col-sm-12{% endif %}" style="position: relative;padding-right: 15px;padding-left: {% if link.image %}20px{% else %}15px{% endif %};">
       <div class="title">{% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
@@ -60,7 +65,12 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  {% if link.image %}
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
+  </div>
+  {% endif %}
+  <div class="{% if link.image %}col-sm-9{% else %}col-sm-12{% endif %}" style="position: relative;padding-right: 15px;padding-left: {% if link.image %}20px{% else %}15px{% endif %};">
       <div class="title">{% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
