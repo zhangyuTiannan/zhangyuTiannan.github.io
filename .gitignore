@@ -5,3 +5,10 @@ Gemfile.lock
 .DS_Store
 .jekyll-cache
 git-update.sh
+
+# local dev
+_site/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.claude/
