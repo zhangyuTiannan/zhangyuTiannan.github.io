@@ -14,6 +14,7 @@ main:
     pdf: /assets/pdf/TARA_CVPR2026_BlackSwan.pdf
     image: /assets/img/pubs/tara.jpg
     notes: Challenge Champion
+    notes_zh: 挑战赛冠军
 
   - title: Frontier VLMs are Strong Zero-Shot Soccer Video Reasoners with Proper Elicitation
     authors: Xingyu Zhu, <strong>Yu Zhang</strong>, Wenwu He, Yuyang Sun, Haoxuan Ma, Yongliang Wu, Xiaogang Wang, Xinyu Ye, Zhenxiang Jiang, Yangguang Ji, Wenbo Zhu, Xu Yang
@@ -22,6 +23,7 @@ main:
     pdf: /assets/pdf/SoccerNet_CVPR2026.pdf
     image: /assets/img/pubs/soccernet.png
     notes: Challenge Champion
+    notes_zh: 挑战赛冠军
 
   - title: Learning 3D Volume Cloud from Single Image
     authors: Yuhang Cheng, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Xiaogang Wang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)

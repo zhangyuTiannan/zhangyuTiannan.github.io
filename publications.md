@@ -1,5 +1,7 @@
 ---
 layout: default
+lang: en
+alt_lang_url: /zh/publications/
 title: Publications
 permalink: /publications/
 ---

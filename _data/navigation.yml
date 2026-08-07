@@ -1,11 +1,21 @@
 main:
 
   - title: "Services"
-    url: services/
-    right: true
+    url: /services/
 
   - title: "Publications"
-    url: publications/
+    url: /publications/
 
   - title: "Home"
-    url:
+    url: /
+
+zh:
+
+  - title: "学术服务"
+    url: /zh/services/
+
+  - title: "论文发表"
+    url: /zh/publications/
+
+  - title: "主页"
+    url: /zh/

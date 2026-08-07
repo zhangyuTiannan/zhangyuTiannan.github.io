@@ -1,5 +1,7 @@
 ---
 layout: homepage
+lang: en
+alt_lang_url: /zh/
 ---
 
 I am the Dean of the AI Research Institute at [Freedo Technology](https://www.freedo3d.com/), and a Master's supervisor in the College of Electronic and Information Engineering at [Southwest University](https://www.swu.edu.cn/). Before joining Freedo, I spent more than a decade as a researcher at the Institute of Computing Technology, Chinese Academy of Sciences. Over the past five years (2021&ndash;2026), I have published 10+ papers in artificial intelligence, including CCF-A conferences such as ACM MM, CVPR, and ECCV, and hold 50+ granted invention patents.
