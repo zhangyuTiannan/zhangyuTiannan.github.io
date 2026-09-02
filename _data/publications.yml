@@ -1,5 +1,23 @@
 main:
 
+  - title: "Program-Guided Temporal Reasoning over Routed Video Evidence for TimeLogicQA"
+    authors: Yuyang Sun, <strong>Yu Zhang</strong>, Xiaogang Wang, Wenwu He, Yuxia Chen
+    conference_short: CVPR
+    conference: CVPR 2026 VidLLMs Workshop - TimeLogic QA Challenge (Track 3), 2026.
+    challenge: https://www.crcv.ucf.edu/cvpr2026-vidllms-workshop/challenges.html
+    image: /assets/img/pubs/vidllms-timelogicqa.jpg
+    notes: Challenge Champion
+    notes_zh: 挑战赛冠军
+
+  - title: "Selective Test-Time Reasoning with Relation-Aware Video Evidence for VRR-QA"
+    authors: Yuyang Sun, <strong>Yu Zhang</strong>, Xiaogang Wang, Ting Wang, Liuzhong Yang, Yuxia Chen
+    conference_short: CVPR
+    conference: CVPR 2026 VidLLMs Workshop - VRR Challenge (Track 2), 2026.
+    challenge: https://www.crcv.ucf.edu/cvpr2026-vidllms-workshop/challenges.html
+    image: /assets/img/pubs/vidllms-vrr-qa.jpg
+    notes: Challenge Runner-up
+    notes_zh: 挑战赛亚军
+
   - title: "RoofIt: 2D Parametric Sketch Extraction from Rough Models for High-quality Roof Reconstruction"
     authors: Xiaogang Wang, Yuncong Liu, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: MM
