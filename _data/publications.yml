@@ -4,7 +4,6 @@ main:
     authors: Yuyang Sun, <strong>Yu Zhang</strong>, Xiaogang Wang, Wenwu He, Yuxia Chen
     conference_short: CVPR
     conference: CVPR 2026 VidLLMs Workshop - TimeLogic QA Challenge (Track 3), 2026.
-    challenge: https://www.crcv.ucf.edu/cvpr2026-vidllms-workshop/challenges.html
     image: /assets/img/pubs/vidllms-timelogicqa.jpg
     notes: Challenge Champion
     notes_zh: 挑战赛冠军
@@ -13,7 +12,6 @@ main:
     authors: Yuyang Sun, <strong>Yu Zhang</strong>, Xiaogang Wang, Ting Wang, Liuzhong Yang, Yuxia Chen
     conference_short: CVPR
     conference: CVPR 2026 VidLLMs Workshop - VRR Challenge (Track 2), 2026.
-    challenge: https://www.crcv.ucf.edu/cvpr2026-vidllms-workshop/challenges.html
     image: /assets/img/pubs/vidllms-vrr-qa.jpg
     notes: Challenge Runner-up
     notes_zh: 挑战赛亚军
