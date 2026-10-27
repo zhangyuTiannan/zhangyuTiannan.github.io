@@ -1,5 +1,19 @@
 main:
 
+  - title: "PACE: Plan, Attend, Check, and Emit for Training-Free Response Timing in Streaming Video Understanding"
+    authors: Siqi Guo, Yuxia Chen, Wenbo Zhu, Yangguang Ji, Zhenxiang Jiang, Teng Zhong, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    authors_zh: Siqi Guo, Yuxia Chen, Wenbo Zhu, Yangguang Ji, Zhenxiang Jiang, Teng Zhong, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> 通讯作者)
+    conference_short: MMM
+    conference: International Conference on Multimedia Modeling (MMM), 2027.
+    pdf: https://arxiv.org/pdf/2610.28323
+
+  - title: "Auto-Director: Leveraging Multi-Agent Collaboration for Autonomous Video Editing"
+    authors: Yuxia Chen, Wenbo Zhu, Yangguang Ji, Zhenxiang Jiang, Teng Zhong, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    authors_zh: Yuxia Chen, Wenbo Zhu, Yangguang Ji, Zhenxiang Jiang, Teng Zhong, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> 通讯作者)
+    conference_short: MMM
+    conference: International Conference on Multimedia Modeling (MMM), 2027.
+    pdf: https://arxiv.org/pdf/2610.28346
+
   - title: "Program-Guided Temporal Reasoning over Routed Video Evidence for TimeLogicQA"
     authors: Yuyang Sun, <strong>Yu Zhang</strong>, Xiaogang Wang, Wenwu He, Yuxia Chen
     conference_short: CVPR
