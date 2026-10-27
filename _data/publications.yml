@@ -6,6 +6,7 @@ main:
     conference_short: MMM
     conference: International Conference on Multimedia Modeling (MMM), 2027.
     pdf: https://arxiv.org/pdf/2610.28323
+    image: /assets/img/pubs/pace.jpg
 
   - title: "Auto-Director: Leveraging Multi-Agent Collaboration for Autonomous Video Editing"
     authors: Yuxia Chen, Wenbo Zhu, Yangguang Ji, Zhenxiang Jiang, Teng Zhong, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
@@ -13,6 +14,7 @@ main:
     conference_short: MMM
     conference: International Conference on Multimedia Modeling (MMM), 2027.
     pdf: https://arxiv.org/pdf/2610.28346
+    image: /assets/img/pubs/auto-director.jpg
 
   - title: "Program-Guided Temporal Reasoning over Routed Video Evidence for TimeLogicQA"
     authors: Yuyang Sun, <strong>Yu Zhang</strong>, Xiaogang Wang, Wenwu He, Yuxia Chen
