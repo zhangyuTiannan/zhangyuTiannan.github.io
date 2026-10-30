@@ -7,6 +7,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>科技部专家库评审专家</autocolor></li>
+  <li><autocolor>CCF 智能汽车专业委员会执行委员</autocolor></li>
   <li><autocolor>CCF 人机交互专业委员会执行委员</autocolor></li>
   <li><autocolor>CCF 计算机辅助设计与图形学专业委员会执行委员</autocolor></li>
   <li><autocolor>第四届工业软件创新应用大赛（人工智能+方向）评审专家</autocolor></li>

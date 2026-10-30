@@ -16,6 +16,20 @@ main:
     pdf: https://arxiv.org/pdf/2610.28346
     image: /assets/img/pubs/auto-director.jpg
 
+  - title: "Zhengrong-Spatial-Aware 1.0: Advancing 3D Multimodal Intelligence"
+    authors: <strong>Yu Zhang</strong>, Xiaogang Wang, Yuhang Cheng, Jingrui Li, Wenbo Chen
+    conference_short: Technical Report
+    conference: Technical Report, arXiv:2610.37216, 2026.
+    pdf: https://arxiv.org/pdf/2610.37216
+    image: /assets/img/pubs/zhengrong-spatial-aware.jpg
+    media:
+      - url: https://weixin.qq.com/sph/Ap8BFOvqFF
+        label_en: Jiangsu News Interview
+        label_zh: 江苏新闻采访
+      - url: https://weixin.qq.com/sph/AqwQNi6bEO
+        label_en: Freedo Video Channel
+        label_zh: 飞渡科技视频号
+
   - title: "Program-Guided Temporal Reasoning over Routed Video Evidence for TimeLogicQA"
     authors: Yuyang Sun, <strong>Yu Zhang</strong>, Xiaogang Wang, Wenwu He, Yuxia Chen
     conference_short: CVPR

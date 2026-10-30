@@ -7,6 +7,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Review Expert, National Expert Database, Ministry of Science and Technology of China (MOST)</autocolor></li>
+  <li><autocolor>Executive Committee Member, CCF Technical Committee on Intelligent Vehicles</autocolor></li>
   <li><autocolor>Executive Committee Member, CCF Technical Committee on Human-Computer Interaction</autocolor></li>
   <li><autocolor>Executive Committee Member, CCF Technical Committee on Computer-Aided Design &amp; Computer Graphics</autocolor></li>
   <li><autocolor>Review Expert, the 4th Industrial Software Innovation Application Competition (AI+ Track)</autocolor></li>
