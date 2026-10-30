@@ -2,7 +2,7 @@
 
 <ul>
 <li><strong>[2026]</strong> Champion, TimeLogic QA Challenge, CVPR 2026 VidLLMs Workshop.</li>
-<li><strong>[2026]</strong> Runner-up, VRR Challenge, CVPR 2026 VidLLMs Workshop.</li>
+<li><strong>[2026]</strong> Champion, VRR Challenge, CVPR 2026 VidLLMs Workshop.</li>
 <li><strong>[2026]</strong> Champion, BlackSwan Challenge, CVPR 2026.</li>
 <li><strong>[2026]</strong> Champion, SoccerNet Challenge, CVPR 2026.</li>
 <li><strong>[2026]</strong> Champion, Embodied AI Challenge, ECCV 2026.</li>

@@ -1,5 +1,12 @@
 main:
 
+  - title: "Zhengrong-Spatial-Aware 1.0: Advancing 3D Multimodal Intelligence"
+    authors: <strong>Yu Zhang</strong>, Xiaogang Wang, Yuhang Cheng, Jingrui Li, Wenbo Chen
+    conference_short: Technical Report
+    conference: Technical Report, arXiv:2610.37216, 2026.
+    pdf: https://arxiv.org/pdf/2610.37216
+    image: /assets/img/pubs/zhengrong-spatial-aware.jpg
+
   - title: "PACE: Plan, Attend, Check, and Emit for Training-Free Response Timing in Streaming Video Understanding"
     authors: Siqi Guo, Yuxia Chen, Wenbo Zhu, Yangguang Ji, Zhenxiang Jiang, Teng Zhong, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     authors_zh: Siqi Guo, Yuxia Chen, Wenbo Zhu, Yangguang Ji, Zhenxiang Jiang, Teng Zhong, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> 通讯作者)
@@ -16,17 +23,11 @@ main:
     pdf: https://arxiv.org/pdf/2610.28346
     image: /assets/img/pubs/auto-director.jpg
 
-  - title: "Zhengrong-Spatial-Aware 1.0: Advancing 3D Multimodal Intelligence"
-    authors: <strong>Yu Zhang</strong>, Xiaogang Wang, Yuhang Cheng, Jingrui Li, Wenbo Chen
-    conference_short: Technical Report
-    conference: Technical Report, arXiv:2610.37216, 2026.
-    pdf: https://arxiv.org/pdf/2610.37216
-    image: /assets/img/pubs/zhengrong-spatial-aware.jpg
-
   - title: "Program-Guided Temporal Reasoning over Routed Video Evidence for TimeLogicQA"
     authors: Yuyang Sun, <strong>Yu Zhang</strong>, Xiaogang Wang, Wenwu He, Yuxia Chen
     conference_short: CVPR
     conference: CVPR 2026 VidLLMs Workshop - TimeLogic QA Challenge, 2026.
+    pdf: /assets/pdf/TimeLogicQA_CVPR2026_VidLLMs.pdf
     image: /assets/img/pubs/vidllms-timelogicqa.jpg
     notes: Challenge Champion
     notes_zh: 挑战赛冠军
@@ -35,9 +36,10 @@ main:
     authors: Yuyang Sun, <strong>Yu Zhang</strong>, Xiaogang Wang, Ting Wang, Liuzhong Yang, Yuxia Chen
     conference_short: CVPR
     conference: CVPR 2026 VidLLMs Workshop - VRR Challenge, 2026.
+    pdf: /assets/pdf/VRR_QA_CVPR2026_VidLLMs.pdf
     image: /assets/img/pubs/vidllms-vrr-qa.jpg
-    notes: Challenge Runner-up
-    notes_zh: 挑战赛亚军
+    notes: Challenge Champion
+    notes_zh: 挑战赛冠军
 
   - title: "RoofIt: 2D Parametric Sketch Extraction from Rough Models for High-quality Roof Reconstruction"
     authors: Xiaogang Wang, Yuncong Liu, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
