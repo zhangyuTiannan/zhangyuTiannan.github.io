@@ -2,7 +2,7 @@
 
 <ul>
 <li><strong>[2026]</strong> CVPR 2026 VidLLMs Workshop TimeLogic QA 挑战赛冠军。</li>
-<li><strong>[2026]</strong> CVPR 2026 VidLLMs Workshop VRR 挑战赛冠军。</li>
+<li><strong>[2026]</strong> CVPR 2026 VidLLMs Workshop VRR 挑战赛亚军。</li>
 <li><strong>[2026]</strong> CVPR 2026 BlackSwan Challenge 冠军。</li>
 <li><strong>[2026]</strong> CVPR 2026 SoccerNet Challenge 冠军。</li>
 <li><strong>[2026]</strong> ECCV 2026 具身智能挑战赛冠军。</li>

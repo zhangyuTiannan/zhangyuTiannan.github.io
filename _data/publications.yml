@@ -38,8 +38,8 @@ main:
     conference: CVPR 2026 VidLLMs Workshop - VRR Challenge, 2026.
     pdf: /assets/pdf/VRR_QA_CVPR2026_VidLLMs.pdf
     image: /assets/img/pubs/vidllms-vrr-qa.jpg
-    notes: Challenge Champion
-    notes_zh: 挑战赛冠军
+    notes: Challenge Runner-up
+    notes_zh: 挑战赛亚军
 
   - title: "RoofIt: 2D Parametric Sketch Extraction from Rough Models for High-quality Roof Reconstruction"
     authors: Xiaogang Wang, Yuncong Liu, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
