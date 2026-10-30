@@ -6,3 +6,10 @@
 <li><strong>[Jul. 2026]</strong> Keynote, China Internet Conference.</li>
 <li><strong>[Apr. 2026]</strong> Keynote and world model roundtable, China Generative AI Conference.</li>
 </ul>
+
+<h3 style="margin: 20px 0px 5px;">Media Coverage</h3>
+
+<ul>
+<li><a href="https://weixin.qq.com/sph/Ap8BFOvqFF">Jiangsu News: First embodied-intelligence robot welding training ground opens in Nanjing</a>.</li>
+<li><a href="https://weixin.qq.com/sph/AqwQNi6bEO">Freedo Technology: ZhengRong Intelligent Construction transforms embodied-intelligence training</a>.</li>
+</ul>

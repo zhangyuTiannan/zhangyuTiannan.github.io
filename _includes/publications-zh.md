@@ -28,11 +28,6 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">代码</a>
       {% endif %}
-      {% if link.media %}
-      {% for media_link in link.media %}
-      <a href="{{ media_link.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">{{ media_link.label_zh }}</a>
-      {% endfor %}
-      {% endif %}
       {% if link.notes %} 
       <i style="color:#e74d3c;">{{ link.notes_zh | default: link.notes }}</i>
       {% endif %}
@@ -74,11 +69,6 @@
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">代码</a>
-      {% endif %}
-      {% if link.media %}
-      {% for media_link in link.media %}
-      <a href="{{ media_link.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">{{ media_link.label_zh }}</a>
-      {% endfor %}
       {% endif %}
       {% if link.notes %} 
       <i style="color:#e74d3c;">{{ link.notes_zh | default: link.notes }}</i>

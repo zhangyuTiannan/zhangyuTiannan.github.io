@@ -37,11 +37,6 @@
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
-      {% if link.media %}
-      {% for media_link in link.media %}
-      <a href="{{ media_link.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">{{ media_link.label_en }}</a>
-      {% endfor %}
-      {% endif %}
       {% if link.notes %} 
       <i style="color:#e74d3c;">{{ link.notes }}</i>
       {% endif %}
@@ -95,11 +90,6 @@
       {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.media %}
-      {% for media_link in link.media %}
-      <a href="{{ media_link.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">{{ media_link.label_en }}</a>
-      {% endfor %}
       {% endif %}
       {% if link.notes %} 
       <i style="color:#e74d3c;">{{ link.notes }}</i>
