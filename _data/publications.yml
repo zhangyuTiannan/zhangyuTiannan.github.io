@@ -66,6 +66,15 @@ main:
     notes: Challenge Champion
     notes_zh: 挑战赛冠军
 
+  - title: "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models"
+    authors: Guiyu Zhao, Longteng Guo, Yanghong Mei, Zilin Zhu, <strong>Yu Zhang</strong>, Bin Cao, MingMing Yu, Xingjian He, Jie Jiang, Jing Liu
+    conference_short: Preprint
+    conference: Preprint, 2026.
+    pdf: /assets/pdf/AtlasVLA_Preprint_2026.pdf
+    image: /assets/img/pubs/atlasvla.jpg
+    notes: Preprint
+    notes_zh: 预印本
+
   - title: Learning 3D Volume Cloud from Single Image
     authors: Yuhang Cheng, <strong>Yu Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Xiaogang Wang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: ICMR
